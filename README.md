@@ -2,7 +2,7 @@
   <content><![CDATA[
 # ${1:Project Name}
 
-AR app that spawns beach balls when detecting a beach image, which collide with the elements around them. 
+AR app that spawns beach balls when detecting plains and a sardine when detecting a crab image, which collide with the elements around them. 
 
 ## Installation
 
@@ -10,7 +10,7 @@ This app uses Unity version 6000.5.0b2. AR Foundation. Compatible with Android.
 
 ## Usage
 
-Scan beach image with back camera.
+Scan crab image and surroundings with back camera.
 
 ## Contributing
 
