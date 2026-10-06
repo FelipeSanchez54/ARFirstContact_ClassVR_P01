@@ -31,6 +31,3 @@ Felipe Sánchez, Morc García, Carla Jiménez, Jordina Quesada
 ## License
 
 Project under MIT Lisence. You may copy, use modify and distribute for both personal and professional purposes.
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
