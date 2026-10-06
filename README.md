@@ -26,8 +26,8 @@ University project to experiment with AR experiences using Unity's AR Foundation
 
 ## Credits
 
-Felipe Sánchez, Morc García, Carla Jiménez, Jordina Quesada
+Felipe Sánchez, Marc García, Carla Jiménez, Jordina Quesada
 
 ## License
 
-Project under MIT Lisence. You may copy, use, modify and distribute for both personal and professional purposes.
+Project under MIT lisence. You may copy, use, modify and distribute for both personal and professional purposes.
