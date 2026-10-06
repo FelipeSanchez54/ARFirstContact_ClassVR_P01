@@ -2,11 +2,11 @@
   <content><![CDATA[
 # ${1:Project Name}
 
-TODO: AR app that spawns beach balls when detecting a beach image, which collide with the elements around them. 
+AR app that spawns beach balls when detecting a beach image, which collide with the elements around them. 
 
 ## Installation
 
-TODO: This app uses Unity version 6000.5.0b2. AR Foundation. Compatible with Android.
+This app uses Unity version 6000.5.0b2. AR Foundation. Compatible with Android.
 
 ## Usage
 
