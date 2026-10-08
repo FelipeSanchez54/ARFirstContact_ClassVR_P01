@@ -100,6 +100,5 @@ Carla: He creado la funcionalidad de Image tracking y un segundo Plane detection
 
 Marc: Me he encargado principalmente de desarrollar la A3 y maquetar el documento final. Entre otras de las actividades, he puesto principal atención en la nomenclatura de mis archivos para facilitar el trabajo grupal y la eficiencia; he buscado información sobre la funcionalidad y la he aplicado siguiendo el hilo narrativo del proyecto. He realizado numerosas pruebas con sistemas de partículas y he llevado a cabo diferentes tests que me permitían acotar los resultados y detectar cuales eran los atributos que permitían que funcionase.
 
-Felipe: Me he encargado de juntar todas las funcionalidades en un solo proyecto y he creado el repositorio inicial de GItHub. He supervisado y gestionado todas las partes de mis compañeros.
-
+Felipe: Me he encargado de juntar todas las funcionalidades en un solo proyecto y he creado el repositorio inicial de GItHub. 
 
